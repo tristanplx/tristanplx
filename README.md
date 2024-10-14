@@ -10,7 +10,7 @@
 
 ## 💡 Skills
 
-- **Languages:** SystemVerilog, C++, Python, VHDL
+- **Languages:** SystemVerilog, C++, C, Python
 - **Technologies:** IoT, microelectronics, embedded systems, Bluetooth, sensors
 - **Tools:** VirtualBox, Nessus, Virtual Machines, processor simulation tools
 - **Others:** Circuit design, electronic prototyping, data analysis
@@ -34,7 +34,7 @@
 
 ## 💡 Compétences
 
-- **Langages :** SystemVerilog, C++, Python, VHDL
+- **Langages :** SystemVerilog, C++, C, Python
 - **Technologies :** IoT, microélectronique, systèmes embarqués, Bluetooth, capteurs
 - **Outils :** VirtualBox, Nessus, Virtual Machines, outils de simulation pour processeurs
 - **Autres :** Conception de circuits, prototypage électronique, analyse de données
