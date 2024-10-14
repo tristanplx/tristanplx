@@ -1,7 +1,6 @@
 # Tristan Panhelleux
 
 👋 Hi! I’m Tristan, an engineering student at Mines de Saint-Étienne, passionate about microelectronics, IoT, and nanotechnologies.
-
 ## 👨‍💻 About Me
 
 - 🎓 I’m currently in my penultimate year at Mines de Saint-Étienne, one of the top 10 engineering schools in France.
@@ -25,7 +24,6 @@
 # Tristan Panhelleux
 
 👋 Bonjour, je suis Tristan, un étudiant ingénieur à l'école des Mines de Saint-Étienne, passionné par la microélectronique, l'IoT et les nanotechnologies.
-
 ## 👨‍💻 À propos de moi
 
 - 🎓 Je suis en avant-dernière année à l'école des Mines de Saint-Étienne, classée parmi les 10 meilleures écoles d'ingénieurs en France.
