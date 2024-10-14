@@ -8,7 +8,7 @@ Hi! I’m Tristan, an engineering student at Mines de Saint-Étienne, passionate
 - **Languages:** SystemVerilog, C++, C, Python
 - **Technologies:** IoT, microelectronics, embedded systems, Bluetooth, sensors
 - **Tools:** VirtualBox, Modelsim, Virtual Machines, processor simulation tools
-- **Others:** Circuit design, electronic prototyping, data analysis
+- **Others:** Circuit design, electronic prototyping, data analysis, analog and digital design
 ##  Contact
 - LinkedIn: [Tristan Panhelleux](https://www.linkedin.com/in/tristanplx)
 - E-mail: tristan.panhelleux@gmail.com
